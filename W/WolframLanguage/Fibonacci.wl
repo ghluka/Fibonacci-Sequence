@@ -1,0 +1,1 @@
+Table[Fibonacci[n-1], {n, 10}]

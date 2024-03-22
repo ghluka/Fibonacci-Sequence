@@ -1,0 +1,9 @@
+procedure main()
+    a := 0
+    b := 1
+    every _ := 1 to 10 do {
+        write(a);
+        b := b + a
+        a := b - a
+    }
+end
