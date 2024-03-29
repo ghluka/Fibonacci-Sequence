@@ -4,10 +4,10 @@ program-id. fibonacci.
 environment division.
 data division.
 working-storage section.
-       01 WS-A pic 999 value 0.
-       01 WS-B pic 999 value 1.
+       01 WS-A pic 99 value 0.
+       01 WS-B pic 99 value 1.
 procedure division.
-       perform 15 times
+       perform 10 times
            display 
                WS-A
            add WS-B to WS-A giving WS-B
