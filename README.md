@@ -1,10 +1,10 @@
-# Fibonacci Sequence
+# 🌀 Fibonacci Sequence
 
 The first 10 terms of the Fibonacci sequence written in various of programming languages.
 
 [![GitHub license](https://img.shields.io/github/license/diamond-ore/Fibonacci-Sequence)](https://img.shields.io/github/license/diamond-ore/Fibonacci-Sequence)
 
-## 🌀 What is the fibonacci sequence?
+## 🤔 What is the fibonacci sequence?
 
 Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
@@ -16,3 +16,8 @@ Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
 - [leachim6/hello-world](https://github.com/leachim6/hello-world)
 - [zenware/FizzBuzz](https://github.com/zenware/FizzBuzz)
+- [clarkzjw/one-two-three...infinity](https://github.com/clarkzjw/one-two-three...infinity)
+
+## 📥 Contributing
+
+We welcome contributions, to see our rules and guidelines on contributing please read [CONTRIBUTING.md](CONTRIBUTING.md)
