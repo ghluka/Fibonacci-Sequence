@@ -7,7 +7,7 @@ import urllib.parse
 
 subsitutes = { '∕':'/', '＼':'\\', '˸':':', '∗':'*', '？':'?', '＂':'"', '﹤':'<', '﹥':'>', '❘':'|' }
 
-files = glob.glob("./src/*/*", recursive=True)
+files = sorted(glob.glob("./src/*/*", recursive=True))
 with open('README.md', 'r', encoding='utf-8') as f:
     f_text = f.read()
     md = f_text.split("<!-- Languages start -->")[0]
@@ -16,7 +16,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     for file in files:
         file = file.replace("\\", "/")
         language = file.split("/")[-1]
-        for k in sorted(subsitutes.keys()):
+        for k in subsitutes.keys():
             language = language.replace(k, subsitutes[k])
         md += f"\n- [{language}]({urllib.parse.quote(file)})"
     
