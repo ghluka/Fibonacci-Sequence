@@ -4,7 +4,7 @@ Feel free to contribute by opening a pull request and adding a new language to o
 
 ## ⌨️ Naming
 
-- Use spaces instead of hyphens or underscores (e.g. `Objective C.m` instead of `Objective-C.m`)
+- Use spaces instead of hyphens or underscores (e.g. `Objective C` instead of `Objective-C`)
 
 ### 📂 Directories
 
