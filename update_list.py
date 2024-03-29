@@ -16,7 +16,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     for file in files:
         file = file.replace("\\", "/")
         language = file.split("/")[-1]
-        for k in subsitutes.keys():
+        for k in sorted(subsitutes.keys()):
             language = language.replace(k, subsitutes[k])
         md += f"\n- [{language}]({urllib.parse.quote(file)})"
     
