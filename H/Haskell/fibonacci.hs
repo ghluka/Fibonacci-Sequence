@@ -1,10 +1,7 @@
-fibonacci 0 = 1
+fibonacci 0 = 0
 fibonacci 1 = 1
 fibonacci n = fibonacci(n-1) + fibonacci(n-2)
 
-fibonacciN 0 = return()
-fibonacciN n = do
-    putStr(show(fibonacci n) ++ "\n")
-    fibonacciN (n-1)
+for list action = mapM_ action list
 
-main = fibonacciN 15
+main = for [0..9] (\ i -> do print(fibonacci(i)))
