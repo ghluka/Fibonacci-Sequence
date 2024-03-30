@@ -22,12 +22,13 @@ Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
 We welcome contributions, to see our rules and guidelines on contributing please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# 🌐 Languages <!-- Languages start -->[56 total]
+# 🌐 Languages <!-- Languages start -->[60 total]
 
 - [05AB1E](./src/%23/05AB1E)
 - [Ada](./src/A/Ada)
 - [AutoHotkey](./src/A/AutoHotkey)
 - [Bash](./src/B/Bash)
+- [BeanShell](./src/B/BeanShell)
 - [C](./src/C/C)
 - [C#](./src/C/C%23)
 - [C++](./src/C/C%2B%2B)
@@ -40,6 +41,7 @@ We welcome contributions, to see our rules and guidelines on contributing please
 - [Elixir](./src/E/Elixir)
 - [Erlang](./src/E/Erlang)
 - [F#](./src/F/F%23)
+- [Felix](./src/F/Felix)
 - [Fish](./src/F/Fish)
 - [Fortran77](./src/F/Fortran77)
 - [Fortran90](./src/F/Fortran90)
@@ -57,6 +59,7 @@ We welcome contributions, to see our rules and guidelines on contributing please
 - [Nim](./src/N/Nim)
 - [Objective C](./src/O/Objective%20C)
 - [Octave](./src/O/Octave)
+- [Odin](./src/O/Odin)
 - [PHP](./src/P/PHP)
 - [Pascal](./src/P/Pascal)
 - [Perl](./src/P/Perl)
@@ -77,6 +80,7 @@ We welcome contributions, to see our rules and guidelines on contributing please
 - [Vala](./src/V/Vala)
 - [VisualBasic](./src/V/VisualBasic)
 - [Wolfram Language](./src/W/Wolfram%20Language)
+- [Wren](./src/W/Wren)
 - [XBasic](./src/X/XBasic)
 - [Yabasic](./src/Y/Yabasic)
 - [Zig](./src/Z/Zig)
