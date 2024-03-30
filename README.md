@@ -17,12 +17,13 @@ Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 - [leachim6/hello-world](https://github.com/leachim6/hello-world)
 - [zenware/FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [clarkzjw/one-two-three...infinity](https://github.com/clarkzjw/one-two-three...infinity)
+- [H4ckerxx44/h](https://github.com/H4ckerxx44/h)
 
 ## 📥 Contributing
 
 We welcome contributions, to see our rules and guidelines on contributing please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# 🌐 Languages <!-- Languages start -->[60 total]
+# 🌐 Languages <!-- Languages start -->[61 total]
 
 - [05AB1E](./src/%23/05AB1E)
 - [Ada](./src/A/Ada)
@@ -56,6 +57,7 @@ We welcome contributions, to see our rules and guidelines on contributing please
 - [Lisp](./src/L/Lisp)
 - [Lua](./src/L/Lua)
 - [Mojo](./src/M/Mojo)
+- [MoonScript](./src/M/MoonScript)
 - [Nim](./src/N/Nim)
 - [Objective C](./src/O/Objective%20C)
 - [Octave](./src/O/Octave)
