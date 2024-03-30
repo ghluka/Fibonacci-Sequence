@@ -1,0 +1,7 @@
+var a = 0;
+var b = 1;
+for var i in 1 upto 10 do
+    println$ a;
+    b += a;
+    a = b - a;
+done
