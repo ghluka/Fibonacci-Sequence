@@ -23,7 +23,7 @@ Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
 We welcome contributions, to see our rules and guidelines on contributing please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# 🌐 Languages <!-- Languages start -->[65 total]
+# 🌐 Languages <!-- Languages start -->[66 total]
 
 - [05AB1E](./src/%23/05AB1E)
 - [Ada](./src/A/Ada)
@@ -77,6 +77,7 @@ We welcome contributions, to see our rules and guidelines on contributing please
 - [Scala](./src/S/Scala)
 - [Scratch](./src/S/Scratch)
 - [Smalltalk](./src/S/Smalltalk)
+- [Squirrel](./src/S/Squirrel)
 - [Swift](./src/S/Swift)
 - [Turing](./src/T/Turing)
 - [TypeScript](./src/T/TypeScript)
