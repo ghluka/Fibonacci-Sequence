@@ -1,0 +1,7 @@
+set a to 0
+set b to 1
+for i from 1 to 10
+    print a
+    set b to b + a
+    set a to b - a
+next
