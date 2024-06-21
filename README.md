@@ -23,13 +23,14 @@ Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
 We welcome contributions, to see our rules and guidelines on contributing please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# 🌐 Languages <!-- Languages start -->[68 total]
+# 🌐 Languages <!-- Languages start -->[69 total]
 
 - [05AB1E](./src/%23/05AB1E)
 - [Ada](./src/A/Ada)
 - [AutoHotkey](./src/A/AutoHotkey)
 - [Bash](./src/B/Bash)
 - [BeanShell](./src/B/BeanShell)
+- [Brat](./src/B/Brat)
 - [C](./src/C/C)
 - [C#](./src/C/C%23)
 - [C++](./src/C/C%2B%2B)
