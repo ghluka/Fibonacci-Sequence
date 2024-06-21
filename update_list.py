@@ -5,7 +5,7 @@
 import glob
 import urllib.parse
 
-subsitutes = { '∕':'/', '＼':'\\', '˸':':', '∗':'*', '？':'?', '＂':'"', '﹤':'<', '﹥':'>', '❘':'|' }
+subsitutes = { '∕':'/', '＼':'\\', '˸':':', '∗':'\\*', '？':'?', '＂':'"', '﹤':'<', '﹥':'>', '❘':'|' }
 
 files = sorted(glob.glob("./src/*/*", recursive=True))
 with open('README.md', 'r', encoding='utf-8') as f:
