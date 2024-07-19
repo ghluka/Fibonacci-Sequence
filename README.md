@@ -1,10 +1,10 @@
 # 🌀 Fibonacci Sequence
 
-The first 10 terms of the Fibonacci sequence written in various of programming languages.
+The first 10 terms of the Fibonacci sequence written in various programming languages.
 
 [![GitHub license](https://img.shields.io/github/license/diamond-ore/Fibonacci-Sequence)](https://img.shields.io/github/license/diamond-ore/Fibonacci-Sequence)
 
-## 🤔 What is the fibonacci sequence?
+## 🤔 What is the Fibonacci sequence?
 
 Excerpt from [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_sequence):
 
