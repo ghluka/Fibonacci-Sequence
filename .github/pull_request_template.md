@@ -14,6 +14,7 @@
   34
   ```
 - [ ] There are no copyright issues with this code
+- [ ] I have run `update_list.py`
 
 ## 🔗 Link to programming language: 
 
